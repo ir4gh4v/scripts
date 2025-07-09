@@ -1,4 +1,4 @@
-cat endpoint-finder.py                                                                                            ─╯
+#!/usr/bin/env python3                                                                                          ─╯
 import re
 import requests
 import argparse
